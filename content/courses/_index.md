@@ -1,22 +1,22 @@
 ---
-title: Courses
-summary: My courses
+title: Coursework
+summary: My Coursework
 type: landing
 
 cascade:
   - target:
-      path: '{/courses/*/**}'
+      path: '{/coursework/*/**}'
     type: docs
     params:
       show_breadcrumb: true
 
 sections:
   - block: collection
-    id: courses
+    id: coursework
     content:
-      title: Courses
+      title: Coursework
       filters:
-        tag: Course
+        tag: Coursework
         kinds:
           - section
     design:
