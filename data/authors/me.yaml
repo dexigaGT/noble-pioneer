@@ -35,19 +35,21 @@ education:
   - degree: M.S. Computer Science, Expected Dec 2026
     institution: Georgia Institute of Technology
     summary: |
-      Specialization in Computational Perception & Robotics. Focused on the end-to-end deployment of Generative AI, from Transformer theory to low-level GPU hardware optimization.
+      Specialization in Computational Perception & Robotics
   - degree: BS Mechanical Engineering, 2022
     institution: The University of Texas at Austin
+    summary: |
+      Specialization in Robotics and Mechatronics
 experience:
   - role: AI Engineer
     org: General Motors Robotics & AI Team
     start: 2022-06-01
     end: 2025-06-01
     summary: |
-      Used computer vision to automate inspection and manufacturing processes.
+      Used computer vision to automate inspection and manufacturing processes
   - role: Hardware Engineering Intern
     org: Maidbot
     start: 2019-06-01
     end: 2019-12-31
     summary: |
-      Tested manufactured robots for defects.
+      Tested manufactured robots for defects
