@@ -41,8 +41,8 @@ education:
 experience:
   - role: AI Engineer
     org: General Motors Robotics & AI Team
-    start: 2022-06
-    end: 2025-06
+    start: 2022-06-01
+    end: 2025-06-01
     summary: |
       Used computer vision to automate inspection and manufacturing processes.
   - role: Hardware Engineering Intern
